@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Streamlit LangChain LLM App
 
 簡単な Streamlit アプリで、LangChain を使って LLM に問い合わせます。Python 3.11 で動作確認済みです。
@@ -63,3 +64,6 @@ streamlit run app.py
    - Deploy を実行
 
 これでアプリがデプロイされ、シークレットとして設定した API キーを使って動作します。
+=======
+# streamlit-app-deploy
+>>>>>>> d69be2288182e2c40c4c6a66ef6bccfb4ece2604

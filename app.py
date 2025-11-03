@@ -40,7 +40,6 @@ st.info(
     "注意: このアプリは OpenAI API を使用します。環境変数 `OPENAI_API_KEY` を設定してから実行してください。"
 )
 
-
 # 定義する専門家ロール（ここは自由に追加できます）
 ROLE_SYSTEM_PROMPTS = {
     "AI専門家": (
