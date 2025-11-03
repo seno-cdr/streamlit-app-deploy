@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 # Environment variables
 .env
+.env.*
 
 # Python
 __pycache__/
@@ -9,7 +9,7 @@ __pycache__/
 *.so
 .Python
 env/
-=======
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
